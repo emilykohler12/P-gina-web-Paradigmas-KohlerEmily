@@ -1,0 +1,16 @@
+body {
+    background-color: #121212;
+}
+h2 {
+    color: #ffde59;
+}
+.cuadros img {
+    width: 150px;
+    height: 150px;
+    margin-right: 20px;
+}
+.cuadros {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

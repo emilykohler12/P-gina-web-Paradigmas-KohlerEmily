@@ -1,0 +1,16 @@
+Hacer css responsive: adaptar a varios dispositivos
+
+Adquirir un dominio en: https://nic.ar/elegi-como-ingresar?idTramite=0&dominio=freddymotos&zona=.com.ar&accion=ALTA
+Con cuit y clave fiscal
+
+Elegir un servicio de alojamiento web de una empresa de hosting (vercel.com)
+
+Transfiere tus archivos al servidor: a través de FTP o SFTP, FTP como FileZilla
+Subir archivos a github y luego a vercel
+
+Si has adquirido un dominio separado, deberás configurar la zona DNS para apuntar a la dirección IP de tu servidor web. Esto se hace a través del panel de control de tu registrador de dominios. Si has adquirido el dominio a través de tu proveedor de alojamiento web, es posible que no necesites configurar nada adicional
+
+Después de configurar la zona DNS, la propagación DNS puede tomar algún tiempo antes de que tu dominio se vincule correctamente a tu servidor web.
+
+Si deseas habilitar HTTPS en tu sitio web, puedes obtener y configurar un certificado SSL a través de tu proveedor de alojamiento web o mediante servicios como Let's Encrypt.
+
